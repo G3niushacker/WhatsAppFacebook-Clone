@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "501734400476",
+    "firebase_url": "https://whatsapp-clone-dc5d7.firebaseio.com",
+    "project_id": "whatsapp-clone-dc5d7",
+    "storage_bucket": "whatsapp-clone-dc5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501734400476:android:775f0ec479d596d1f52f19",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501734400476-3qkgk7feckf8nf1luuhjivnm8dn2bvma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp_clone",
+            "certificate_hash": "fb73bf824ca4c48e0020e4228daee1846101206c"
+          }
+        },
+        {
+          "client_id": "501734400476-d9qbu2laf2i9k3bbma9e322c7c1ah0kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSWxvMkeQx3mHjW8iBMRVNgwUbDLhdhZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501734400476-d9qbu2laf2i9k3bbma9e322c7c1ah0kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501734400476:android:611344c085282fa5f52f19",
+        "android_client_info": {
+          "package_name": "com.example.whatsappfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501734400476-pheq5e7mu048lra66ftsuveli363tvcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsappfacebook",
+            "certificate_hash": "fb73bf824ca4c48e0020e4228daee1846101206c"
+          }
+        },
+        {
+          "client_id": "501734400476-d9qbu2laf2i9k3bbma9e322c7c1ah0kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSWxvMkeQx3mHjW8iBMRVNgwUbDLhdhZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501734400476-d9qbu2laf2i9k3bbma9e322c7c1ah0kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
